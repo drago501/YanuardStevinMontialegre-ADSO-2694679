@@ -4,6 +4,7 @@ Aqui se encuentran todo lo que hemos realizado con el lider de la ficha
 * 👦  [Git personal](https://github.com/Y-S-500)
 
 # Los  trabajos mas importantes del cuarto Trimestre:
+## Nota: todos estos enlaces lo redirecionan a git original(git personal).
 
 * 📁 [Emisora_Proyect](https://github.com/Y-S-500/Emisora_Proyect).
 Repositorio que contiene un proyecto de emisora con fundamentos en bases de datos y Java 🧮.
