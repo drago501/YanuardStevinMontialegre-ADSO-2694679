@@ -2,6 +2,7 @@
 Aqui se encuentran todo lo que hemos realizado con el lider de la ficha 
 # Elace del git personal
 * 👦  [Git personal](https://github.com/Y-S-500)
+* Nota: en este git personal se necuentra todo sobre trabajos del sena, Informacion sobre Yanuard Stevin Montialegre.  todo mas ordenado 
 
 # Los  trabajos mas importantes del cuarto Trimestre:
 ## Nota: todos estos enlaces lo redirecionan a git original(git personal).
