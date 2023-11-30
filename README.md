@@ -1,5 +1,7 @@
-# JesusGonzalez-ADSO-2694679
+# Trabajos 
 Aqui se encuentran todo lo que hemos realizado con el lider de la ficha 
+# Elace del git personal
+* 👦  [Git personal](https://github.com/Y-S-500)
 
 # Los  trabajos mas importantes del cuarto Trimestre:
 
